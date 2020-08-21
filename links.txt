@@ -1,0 +1,3 @@
+https://empman1.visma.net/empman/api/EmployeeList?odpOrgId=fbcce1b3-baca-47e1-b4e5-b05301e2fe71&employeeId=ca162ebb-92ea-4e79-a4a5-61232642dcd7
+https://web.calendar.hrm.visma.net/api/org/fbcce1b3-baca-47e1-b4e5-b05301e2fe71/employee/filter?expand=employees,positions&details=all
+https://web.roster.hrm.visma.net/roster/monitoring/ping
